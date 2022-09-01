@@ -9,5 +9,5 @@ L'ensemble de mes projets ! Comme par exemple un générateur de QR-Code, les ap
 
 > **PS:** Il ne faut surtout pas avoir peur de me faire des retours d'expérience !
 
-- N'hésite pas à me contacter !
+N'hésite pas à me contacter !
 
