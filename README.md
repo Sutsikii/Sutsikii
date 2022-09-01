@@ -1,4 +1,6 @@
-### Hi there 👋
+### Salut !
+
+- Je suis Nicolas Alias Sutsiki et je suis Étudiant à la Normandie Web School en diplome de chef de projet digital !
 
 <!--
 **Sutsikii/Sutsikii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
