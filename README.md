@@ -5,3 +5,4 @@
 
 - N'hésite pas à me contacter !
 
+![qr-code-nicolas-dutetre](https://user-images.githubusercontent.com/92156389/187857206-2bc202d1-1966-49f0-b4eb-5be0ad54a073.png)
