@@ -7,7 +7,7 @@
 
 L'ensemble de mes projets ! Comme par exemple un générateur de QR-Code, les applications web que je développe, ou encore mes Setups !
 
-> **PS:** Il ne faut surtout pas avoir peur de me faire des retours d'expérience !
+> **PS:** Il ne faut surtout pas avoir peur de me faire des retours d'expériences !
 
 N'hésite pas à me contacter !
 
